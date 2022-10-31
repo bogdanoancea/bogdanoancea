@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bogdanoancea
-- 👀 I’m interested in C++, Java, R, parallel programming, scientific programing
+- 👀 I’m interested in C++, Java, R, Javascript, Typescript, parallel programming, scientific programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on sfotware development projects
+- 💞️ I’m looking to collaborate on software development projects
 - 📫 You can contact me at bogdan.oancea@gmail.com
 
 <!---
